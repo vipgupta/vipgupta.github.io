@@ -2,17 +2,17 @@
 == Selected Publications
 
 - *V. Gupta*, D. Choudhary, P. Tang, X. Wei, X. Wang, Y. Huang, A. Kejariwal, K. Ramchandran and M. Mahoney,\n 
-"[http://people.eecs.berkeley.edu/~vipul_gupta/DCT.pdf Fast Distributed Training of Deep Neural Networks: Dynamic Communication Thresholding for Model and Data Parallelism]",\n 
-/Under Review, 2021/ \n
+"[https://research.fb.com/wp-content/uploads/2021/08/Training-Recommender-Systems-at-Scale-Communication-Efficient-Model-and-Data-Parallelism.pdf Training Recommender Systems at Scale: Communication-Efficient Model and Data Parallelism]",\n 
+/Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD), 2021/ \n
 
 - *V. Gupta*, S. Akle, and D. DeCoste, \n
 "[https://openreview.net/forum?id=rygFWAEFwS Stochastic Weight Averaging in Parallel: Large-batch Training that Generalizes Well]", \n
 /International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, 2020/
 
 - *V. Gupta*, A. Ghosh, M. Derenzinski, R. Khanna, K. Ramchandran and M. Mahoney,\n 
-#"[http://people.eecs.berkeley.edu/~vipul_gupta/LocalNewton.pdf LocalNewton: Reducing Communication Rounds for Distributed Learning]",\n 
+"[https://arxiv.org/abs/2105.07320 LocalNewton: Reducing Communication Bottleneck for Distributed Learning]",\n 
 "LocalNewton: Reducing Communication Rounds for Distributed Learning",\n
-/Under Review, 2020/ \n
+/Uncertainty in Artificial Intelligence (UAI), 2021/ \n
 
 - *V. Gupta*, D. Carrano, Y. Yang, V. Shankar, T. Courtade, and K. Ramchandran \n
 "[https://arxiv.org/pdf/2001.07490.pdf Serverless Straggler Mitigation using Local
@@ -23,7 +23,7 @@ Error-Correcting Codes]", \n
 
 - A. Aghazadeh, *V. Gupta*, A. DeWeese, O. Koyluoglu, and K. Ramchandran \n 
 [https://arxiv.org/pdf/2010.13829.pdf "BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory"], \n
-/Under Review, 2020/ \n
+/Mathematical and Scientific Machine Learning (MSML), 2021/ \n
 [https://github.com/BEAR-algorithm/BEAR \[Code\]] 
 
 - *V. Gupta*, S. Padhe, T. Courtade, and K. Ramchandran,\n 
@@ -38,7 +38,7 @@ Error-Correcting Codes]", \n
 (Also a *Spotlight Presentation*, ICML Workshop 2019 [https://slideslive.com/38917775 \[Video\]])
 
 - *V. Gupta*, S. Wang, T. Courtade, and K. Ramchandran,\n 
-"[https://people.eecs.berkeley.edu/~vipul_gupta/oversketch.pdf OverSketch: Approximate Matrix Multiplication for the Cloud]",\n 
+"[https://arxiv.org/pdf/1811.02653.pdf OverSketch: Approximate Matrix Multiplication for the Cloud]",\n 
 /IEEE International Conference on Big Data, Seattle, WA, USA, 2018/ \n
 [https://github.com/vvipgupta/OverSketch \[Code\]] 
 
